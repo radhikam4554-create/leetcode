@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/radhikam4554-create/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/radhikam4554-create/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/radhikam4554-create/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/radhikam4554-create/leetcode/tree/master/0263-ugly-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/radhikam4554-create/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/radhikam4554-create/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/radhikam4554-create/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -27,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/radhikam4554-create/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
