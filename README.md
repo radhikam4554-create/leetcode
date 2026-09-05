@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
