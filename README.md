@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/radhikam4554-create/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/radhikam4554-create/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/radhikam4554-create/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3870-count-commas-in-range](https://github.com/radhikam4554-create/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
