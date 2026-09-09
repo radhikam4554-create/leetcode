@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhikam4554-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
