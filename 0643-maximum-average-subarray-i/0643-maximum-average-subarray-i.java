@@ -5,8 +5,8 @@ class Solution {
             sum=sum+nums[i];
         }
         int max=sum;
-        for(int r=k;r<nums.length;r++){
-            sum=sum+nums[r]-nums[r-k];
+        for(int right=k;right<nums.length;right++){
+            sum=sum+nums[right]-nums[right-k];
             max=Math.max(max,sum);
         }
     return(double) max/k; 
