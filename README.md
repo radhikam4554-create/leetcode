@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/radhikam4554-create/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/radhikam4554-create/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/radhikam4554-create/leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/radhikam4554-create/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/radhikam4554-create/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0088-merge-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
