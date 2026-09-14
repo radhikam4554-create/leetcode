@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/radhikam4554-create/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/radhikam4554-create/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/radhikam4554-create/leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/radhikam4554-create/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/radhikam4554-create/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/radhikam4554-create/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
