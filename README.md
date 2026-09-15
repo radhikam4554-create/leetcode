@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/radhikam4554-create/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
+| [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/radhikam4554-create/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/radhikam4554-create/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
 | [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
