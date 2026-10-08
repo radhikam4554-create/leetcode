@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/radhikam4554-create/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhikam4554-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
