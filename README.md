@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/radhikam4554-create/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/radhikam4554-create/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/radhikam4554-create/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
