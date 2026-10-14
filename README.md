@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/radhikam4554-create/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/radhikam4554-create/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhikam4554-create/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/radhikam4554-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhikam4554-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/radhikam4554-create/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/radhikam4554-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
