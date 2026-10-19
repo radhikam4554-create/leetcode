@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/radhikam4554-create/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhikam4554-create/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/radhikam4554-create/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikam4554-create/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/radhikam4554-create/leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/radhikam4554-create/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/radhikam4554-create/leetcode/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhikam4554-create/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/radhikam4554-create/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/radhikam4554-create/leetcode/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/radhikam4554-create/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
