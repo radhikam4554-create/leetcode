@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/radhikam4554-create/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/radhikam4554-create/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/radhikam4554-create/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/radhikam4554-create/leetcode/tree/master/0231-power-of-two) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/radhikam4554-create/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/radhikam4554-create/leetcode/tree/master/0205-isomorphic-strings) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhikam4554-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/radhikam4554-create/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/radhikam4554-create/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/radhikam4554-create/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/radhikam4554-create/leetcode/tree/master/0205-isomorphic-strings) |
