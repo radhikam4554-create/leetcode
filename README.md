@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/radhikam4554-create/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/radhikam4554-create/leetcode/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/radhikam4554-create/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/radhikam4554-create/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/radhikam4554-create/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/radhikam4554-create/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/radhikam4554-create/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
