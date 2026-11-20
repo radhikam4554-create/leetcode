@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/radhikam4554-create/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/radhikam4554-create/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/radhikam4554-create/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/radhikam4554-create/leetcode/tree/master/0844-backspace-string-compare) |
 | [2169-count-operations-to-obtain-zero](https://github.com/radhikam4554-create/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/radhikam4554-create/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/radhikam4554-create/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/radhikam4554-create/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/radhikam4554-create/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/radhikam4554-create/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/radhikam4554-create/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/radhikam4554-create/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/radhikam4554-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/radhikam4554-create/leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/radhikam4554-create/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/radhikam4554-create/leetcode/tree/master/1089-duplicate-zeros) |
 | [1267-count-servers-that-communicate](https://github.com/radhikam4554-create/leetcode/tree/master/1267-count-servers-that-communicate) |
