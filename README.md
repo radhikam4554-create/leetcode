@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/radhikam4554-create/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/radhikam4554-create/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/radhikam4554-create/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/radhikam4554-create/leetcode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/radhikam4554-create/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/radhikam4554-create/leetcode/tree/master/0844-backspace-string-compare) |
 | [2169-count-operations-to-obtain-zero](https://github.com/radhikam4554-create/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/radhikam4554-create/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/radhikam4554-create/leetcode/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
